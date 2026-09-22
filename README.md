@@ -31,6 +31,14 @@ documentation.
 - Git
 - GitHub
 - Markdown
+  ## Completed GitHub Workflow
+
+- Repository created
+- Project documentation added
+- Multiple meaningful commits created
+- Feature branch created
+- Pull request created
+- Feature branch merged into main
 
 ## Author
 
